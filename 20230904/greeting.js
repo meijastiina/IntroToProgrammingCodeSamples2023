@@ -13,3 +13,4 @@ process.stdin.on("data", function(inputFromUser) {
     // End program
     process.exit();
 });
+process.stdout.write("Hello unknown!\n");
