@@ -18,6 +18,7 @@ process.stdin.on("data", function(inputFromUser) {
     } else if ( answer == "n" ) {
         // Print out a corresponding message
         process.stdout.write("Boo!\n");
+    // In ALL other cases (input is not y or n)
     } else {
         // Print out a corresponding message
         process.stdout.write("Invalid input!\n");
