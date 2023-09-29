@@ -31,3 +31,9 @@ for ( let i = 0; i < fruitSalad.length; i++ ) {
     // and print out the items.
     process.stdout.write("\n" + fruitSalad[i]);
 }
+
+x x x x x
+x * x x x
+x * x x x
+x * x x x
+x * x x x
